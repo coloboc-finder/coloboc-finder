@@ -15,10 +15,7 @@
 
 ## 🚀 Мои проекты
 
-- [REST API автотесты (RestAssured + JUnit)](https://github.com/coloboc-finder/rest-assured-demo)
-- [UI автотесты с Selenide](https://github.com/coloboc-finder/selenide-demo)
-- [CI/CD: автозапуск тестов через GitHub Actions](https://github.com/coloboc-finder/ci-cd-demo)
-- [Чек-листы и тест-кейсы (ручное тестирование)](https://github.com/coloboc-finder/manual-test-cases)
+- [REST API автотесты (RestAssured + JUnit/Selenide)](https://github.com/coloboc-finder/TestSwaggerPetstoreBackendFrontend)
 
 ## 📫 Контакты
 
